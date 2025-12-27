@@ -33,7 +33,7 @@ Telegram Bot Token
 
 bash
 
-git clone https://github.com/your-username/youtube-downloader-bot.git
+git clone https://github.com/vasyapupkin44184028-stack/youtube-downloader-bot.git
 
 cd youtube-downloader-bot
 
